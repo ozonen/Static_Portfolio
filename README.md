@@ -1,2 +1,0 @@
-# Static_Portfolio
-Static_Portfolio_GH1044899
